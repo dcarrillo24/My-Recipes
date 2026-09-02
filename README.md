@@ -5,7 +5,7 @@ A collection of my three favorite recipes
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Favorite Recipes</title>
+    
 </head>
 <body>
     <header>
